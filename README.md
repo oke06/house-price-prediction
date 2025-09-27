@@ -9,9 +9,6 @@ house-price-prediction/
 ├── requirements.txt # Python libraries needed
 └── README.md # project overview
 
-markdown
-Copy code
-
 ## Models Used
 - Linear Regression
 - Random Forest
